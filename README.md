@@ -15,4 +15,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/JsonDataProcessor.git](https://github.com/deepanshu1531/JSON-Data-Processing)
+   git clone https://github.com/deepanshu1531/JSON-Data-Processing.git
